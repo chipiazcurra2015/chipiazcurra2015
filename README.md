@@ -1,6 +1,6 @@
 #console.log(👋+"world")
 
-#👋Hola, Soy Gabriel Azcurra
+👋Hola, Soy Gabriel Azcurra
 [Full Stack Developer] y Técnico Superior en Administración
 de Empresa, tengo 33 años y soy de Argentina con un background 
 en Administración y con la experiencia de realizar proyectos en el contexto administrativo para la empresa 
@@ -18,7 +18,7 @@ empaticamente día a día.
 
  😃Si te interesa mi Perfil no dudes en comunicarte conmigo.☎️
 
- °📢 WhatsApp: +54 9 261 5933675
- °📢Gmail:chipiazcurra2015@gmail.com
+ °📢 WhatsApp: +54 9 261 5933675,
+ °📢Gmail:chipiazcurra2015@gmail.com,
  °📢GitHub: https://github.com/chipiazcurra2015
 
