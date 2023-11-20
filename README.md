@@ -1,16 +1,23 @@
-### Hi there 👋
+console.log(👋+"world")
 
-<!--
-**chipiazcurra2015/chipiazcurra2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋Hola, Soy Gabriel Azcurra [Full Stack Developer] y Técnico Superior en Administración
+de Empresa, tengo 33 años y soy de Argentina con un background 
+en Administración y con la experiencia de realizar proyectos en el contexto administrativo para la empresa 
+donde trabaje por más de 10 años. 
 
-Here are some ideas to get you started:
+🕹 Tecnologías (Tech Skills):[React, React-Redux, Css, Html, JavaScript, Git, Postgrest, Express, Sequelize,
+GitHab], además de otras tecnologías que aprendi durante mi carrera y trabajos.🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 👍Durante mi trabajo anterior fue donde desarrolle mis Soft Skill.👇
+
+👍 Habilidades(Soft Skills):  
+ Habilidades de comunicativas, sociales, liderazgo, resolución de problemas.
+Afrontando situaciones de presión liderando un Area teniendo gente a cargo y a su vez ganando experiencia en atención al público lidiando con clientes
+empaticamente día a día.
+
+ 😃Si te interesa mi Perfil no dudes en comunicarte conmigo.☎️
+
+ °📢 WhatsApp: +54 9 261 5933675
+ °📢Gmail:chipiazcurra2015@gmail.com
+ °📢GitHub: https://github.com/chipiazcurra2015
+
