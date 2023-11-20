@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hola, Soy Gabriel Azcurra [Full Stack Developer] y Técnico Superior en Administración<br>de Empresa, tengo 33 años y soy de Argentina con un background <br>en Administración y con la experiencia de realizar proyectos en el contexto administrativo para la empresa <br>donde trabaje por más de 10 años. <br><br>🕹 Tecnologías (Tech Skills):[React, React-Redux, Css, Html, JavaScript, Git, Postgrest, Express, Sequelize,<br>GitHab], además de otras tecnologías que aprendi durante mi carrera y trabajos.🌐<br><br> 👍Durante mi trabajo anterior fue donde desarrolle mis Soft Skill.👇<br><br>👍 Habilidades(Soft Skills):  <br> Habilidades de comunicativas, sociales, liderazgo, resolución de problemas.<br>Afrontando situaciones de presión liderando un Area teniendo gente a cargo y a su vez ganando experiencia en atención al público lidiando con clientes<br>empaticamente día a día.<br><br> 😃Si te interesa mi 
+👋Hola, Soy Gabriel Azcurra [Full Stack Developer] y Técnico Superior en Administración<br>de Empresa, tengo 33 años y soy de Argentina con un background <br>en Administración y con la experiencia de realizar proyectos en el contexto administrativo para la empresa <br>donde trabaje por más de 10 años. <br><br>🕹 Tecnologías (Tech Skills):[React, React-Redux, Css, Html, JavaScript, Git, Postgrest, Express, Sequelize,<br>GitHab], además de otras tecnologías que aprendi durante mi carrera y trabajos.🌐<br><br> 👍Durante mi trabajo anterior fue donde desarrolle mis Soft Skill.👇<br><br>👍 Habilidades(Soft Skills):  <br> Habilidades de comunicativas, sociales, liderazgo, resolución de problemas.<br>Afrontando situaciones de presión liderando un Area teniendo gente a cargo y a su vez ganando experiencia en atención al público lidiando con clientes<br>empaticamente día a día.<br><br>
 
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)([https://linkedin.com/in/Gabriel Azcurra](https://www.linkedin.com/in/gabriel-azcurra-60963b227/)) 
@@ -21,7 +21,7 @@
 [![](https://visitcount.itsvg.in/api?id=chipiazcurra2015&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- °📢 WhatsApp: +54 9 261 5933675>>>>>>>>>>><<<<<<<<<<<<
- °📢Gmail:chipiazcurra2015@gmail.com,
+#  °📢 WhatsApp: +54 9 261 5933675
+#  °📢Gmail:chipiazcurra2015@gmail.com
 
 
