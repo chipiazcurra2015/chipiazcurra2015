@@ -1,6 +1,7 @@
-console.log(👋+"world")
+#console.log(👋+"world")
 
-👋Hola, Soy Gabriel Azcurra [Full Stack Developer] y Técnico Superior en Administración
+#👋Hola, Soy Gabriel Azcurra
+[Full Stack Developer] y Técnico Superior en Administración
 de Empresa, tengo 33 años y soy de Argentina con un background 
 en Administración y con la experiencia de realizar proyectos en el contexto administrativo para la empresa 
 donde trabaje por más de 10 años. 
